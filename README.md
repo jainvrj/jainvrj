@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jainvrj
-- 👀 I’m interested in analytics
-- 🌱 I’m currently learning python,powerBi, sql server , ssis , ssas, cognos 
+- 👀 I’m interested in analytics,DataEnginnering,BI,AI.
+- 🌱 I’m have experties in python,powerBi, sql server , ssis , ssas, cognos,ADF,Snowflake 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
